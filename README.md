@@ -1,6 +1,6 @@
 ---
 title: Face Expression
-emoji: 🔥
+emoji: 💻
 colorFrom: gray
 colorTo: blue
 sdk: streamlit
