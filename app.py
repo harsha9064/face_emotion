@@ -7,7 +7,7 @@ import os
 import pickle
 
 # Load the pre-trained model
-model_pkl_file = "models/Face_classifier.pkl"
+model_pkl_file = "Face_classifier.pkl"
 with open(model_pkl_file, 'rb') as file:
     model = pickle.load(file)
 
